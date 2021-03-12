@@ -7,8 +7,8 @@ A small little program that lets you visualize the frequency of words on email m
 3. ```source venv/bin/activate```
 4. ```pip3 install -r requirements.txt```
 5. ```cp example.ini config.ini``` and *edit* with your configuration
-6. *run* ```python3 email-wordcloud.py```
-7. *open* cloud-results.png to visualize
+6. ```python3 email-wordcloud.py```
+7. *OPEN* ```cloud-results.png``` to visualize
 
 > This has only been tested with Yahoo using app password. I suspect Gmail is the same process.
 
